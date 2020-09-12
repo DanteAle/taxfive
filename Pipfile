@@ -7,6 +7,7 @@ verify_ssl = true
 autopep8 = "*"
 
 [packages]
+dash = "==1.16.0"
 
 [requires]
 python_version = "3.8"
